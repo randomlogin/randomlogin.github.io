@@ -13,6 +13,8 @@ You are at the personal webpage of Alexander Shevtsov.
 
 [aaaa](test)
 
+[bbb]({% link test.md %})
+
 ## Bio
 
 Usually I introduce myself as a mathematician, though my activites vary drastically.
