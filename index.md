@@ -5,22 +5,32 @@
 layout: home
 ---
 
-## Hi! 
-You are at personal webpage of Alexander Shevtsov.
+## Hej-hej!
+You are at the personal webpage of Alexander Shevtsov.
 
-Usually I introduce myself as a mathematician,
+
+# test zone
+
+[aaaa](test)
+
+## Bio
+
+Usually I introduce myself as a mathematician, though my activites vary drastically.
+So I have a deep knoweledge of mathematics. Cryptography, modern IT, blockchain.
 
 ## Things I did:
-1. few educational articles about cryptography
+1. Few educational articles about cryptography
 2. Presented Jury.Online project at d10e conferecne in Seoul <https://www.youtube.com/watch?v=azlZ8EWyotg>
+3. Mathematics videos (Russian)
 
 ## Things I do:
 
-t.me/metatema
+<https://t.me/metatema>
 
-vk.com/pizdupokraste
+<https://vk.com/pizdupokraste>
 
-youtube/metatema
+<https://youtube/metatema>
+
 
 
 ## Social:
@@ -34,5 +44,6 @@ youtube/metatema
 [telegram](https://t.me/randomlogin)
 
 [youtube](https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q)
+
 
 
