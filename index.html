@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Alexander Shevtsov</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/js/main.js"></script>
   </head>
   <body>
       <nav>
@@ -11,8 +12,6 @@
     <a href="/" class="current">Home</a>
   
     <a href="/about/" >About</a>
-  
-    <a href="/aza/" >Aza</a>
   
 </nav>
 
@@ -32,21 +31,32 @@
 
 <p>Usually I introduce myself as a mathematician, though my activites vary drastically.
 So I have a deep knoweledge of mathematics. Cryptography, modern IT, blockchain.</p>
+<div class="tooltip">Jack of all trades.
+  <span class="tooltiptext">master of none</span>
+</div>
 
 <h2 id="things-i-did">Things I did:</h2>
+
+<h3 id="academic">Academic</h3>
+<p>MIPT, IUM</p>
+
 <ol>
   <li>Few educational articles about cryptography
-<a href="/materials/aes.pdf">AES</a>
-<a href="/materials/hashing_algorithms.pdf">hashing algorithms</a>
-<a href="/materials/diffie.pdf">Diffie-Hellman key exchange</a>
-<a href="/materials/prng.pdf">pseudo-random number generators</a></li>
+    <ul>
+      <li><a href="/materials/aes.pdf">AES</a></li>
+      <li><a href="/materials/hashing_algorithms.pdf">hashing algorithms</a></li>
+      <li><a href="/materials/diffie.pdf">Diffie-Hellman key exchange</a></li>
+      <li><a href="/materials/prng.pdf">pseudo-random number generators</a></li>
+    </ul>
+  </li>
   <li>Presented Jury.Online project at d10e conferecne in Seoul <a href="https://www.youtube.com/watch?v=azlZ8EWyotg">https://www.youtube.com/watch?v=azlZ8EWyotg</a></li>
   <li>Mathematics videos (Russian)</li>
+  <li>sdfdgdfgdf</li>
 </ol>
 
 <h2 id="things-i-do">Things I do:</h2>
 
-<p><a href="https://t.me/metatema">https://t.me/metatema</a></p>
+<p><a href="https://t.me/metatema">Telegram channel with some things around</a></p>
 
 <p><a href="https://vk.com/korotkayassylka">https://vk.com/korotkayassylka</a></p>
 
@@ -54,25 +64,19 @@ So I have a deep knoweledge of mathematics. Cryptography, modern IT, blockchain.
 
 <h2 id="social">Social:</h2>
 
-<p><a href="https://vk.com/id9115173">vk</a></p>
+<p><a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a>
+<a href="https://vk.com/id9115173"><img src="/assets/images/vk.svg" alt="logo" /></a>
+<a href="https://instagram.com/randomlogin76/"><img src="/assets/images/inst.png" alt="logo" /></a>
+<a href="https://last.fm/user/shewtsov"><img src="/assets/images/lastfm.svg" alt="logo" /></a>
+<a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q"><img src="/assets/images/youtube.png" alt="logo" /></a></p>
 
 <p><a href="https://hh.ru/applicant/resumes/view?resume=a6daa2bcff068b92680039ed1f45695a736637">hh</a></p>
 
-<p><a href="https://instagram.com/randomlogin76/">instagram</a></p>
-
-<p><a href="https://last.fm/user/shewtsov">lastfm</a></p>
-
-<p><a href="https://t.me/randomlogin">telegram</a></p>
-
-<p><a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q">youtube</a></p>
-
 <h2 id="key">Key</h2>
-<p>For private communication. Public key allows you to send me a message that can be read only by me.
-The same key can be found at <a href="https://pgp.mit.edu/">MIT keyserver</a></p>
-
-<p>—–BEGIN PGP PUBLIC KEY BLOCK—–</p>
-
-<p>mQENBFXM5gMBCADI7hGTegsa7vVDZqJmmAFur6C2ejX8WuZd34+OaHbPot9N9GZc
+<p>My key for private communication. Only I can read the encrypted text.</p>
+<div id="pgpKey" style="display: none">
+<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+mQENBFXM5gMBCADI7hGTegsa7vVDZqJmmAFur6C2ejX8WuZd34+OaHbPot9N9GZc
 ScdijH/TAKgYqXOBENCaaLnqVYohth0FuTjEQOQwYNzSwRrYszEI879SwStWlxq/
 8YNNS6fhFVoBqzB0dl3yVinBGZPmLljsEMurMWStvU6jSt+Yv9LtCEgcJ/ikh4K1
 3jj92XFU4GkQtZhcQMeT/3vm6N2MToR9ibUZJUtIX6LKJY3x42o0sVGEPc5laNK4
@@ -99,8 +103,10 @@ ohFvMwyeZEQSVD2rqyrBWd3Kj7LzMkOyyg1rMcOiuXsqKbNKTVqXLWi0nlqGv5a/
 ehbhm/dHgUcmzKbagIAmpH4z3Ow5C7/7DKAED0c6yjwHw9UmYl81N1upzSQeIx6j
 2EvP/eMKog==
 =EBcx
-—–END PGP PUBLIC KEY BLOCK—–</p>
-
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
+</div>
+<p><button onclick="showKey()" id="showKeyButton">Show</button></p>
 
   </body>
 </html>

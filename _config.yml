@@ -1,6 +1,0 @@
-title: yyyyy.io
-email: randomlogin76@gmail.com
-
-languages: ["en", "ru"]
-default_lang: "en"
-exclude_from_localization: ["materials", "assets", "CNAME", ]
