@@ -11,8 +11,6 @@
   
     <a href="/ru/" class="current">Home</a>
   
-    <a href="/ru/about/" >About</a>
-  
 </nav>
 
  
@@ -23,52 +21,80 @@
 <a style="font-weight: bold;" href=" /ru/ ">ru</a> |
   
 
-      <p><img src="/assets/images/im.jpg" width="25%" height="25%" /></p>
+      <!-- Хули палишь? -->
+<p><br /></p>
+<div class="card">
+<img src="/assets/images/myself.jpg" />
+<img src="/assets/images/myself2.jpg" class="img-top" />
+</div>
+
 <h2 id="hej-hej">Hej-hej!</h2>
 
 <p>Это страница Александра Шевцова.</p>
 
 <h2 id="обо-мне">Обо мне</h2>
 
-<p>Обычно я представляюсь математиком, хотя сферы моей деятельности довольно различны.
-Так, у меня глубокие знания математики. К ней прилагается криптография, современные ИТ, блокчейн.</p>
+<h3 id="академическое-и-образовательное">Академическое и образовательное</h3>
+<p>Для меня образование это в первую очередь расширение кругозора, поэтому мои интересы разнятся начиная с лингвистики и криптографии и заканчивая квантовой физикой и космологией. Но, я бы называл себя математиком.</p>
 
-<div class="tooltip">Jack of all trades.
-  <span class="tooltiptext">master of none</span>
+<p>Окончил Белорусский Государственный Университет с темой диплома: плотность подалгебр картана в многообразии абелевых подалегбр полупростых комплексных алгебр Ли.</p>
+
+<p>Сейчас я заканчиваю последний год обучения по магистерской программе <a href="https://math.hse.ru/">факультета математики ВШЭ</a> с темой курсовой за первый год: структура группы автоморфизмов конечномерной ассоциативной алгебры.</p>
+
+<p>Из областей назвал бы: дифференциальную геометрию, теорию моделей, теорию категорий, computer science, ОТО и квантовую физику. Недолюблюиваю функциональный анализ.</p>
+
+<p>Иногда я участвую в семинарах по алгебре <a href="http://mms.mathnet.ru/">Московского Математического Общества</a>, семинарах по аддивным действиям групп <a href="https://www.hse.ru/staff/arjantsev">Ивана Аржанцева</a> (он мой научный руководитель), а в прошлом ходил на семинар по <a href="https://en.wikipedia.org/wiki/Dessin_d%27enfant">детским ресункам</a> <a href="http://www.mathnet.ru/person19967">Георгия Шабата</a>.
+Закончил несколько курсов <a href="http://ium.mccme.ru">Независимого Московского Университета</a>.</p>
+
+<h3 id="деловое">Деловое</h3>
+<div>Когда-то я был фрилансером, занимавшимся веб-разработкой, поддерживал криптографический гем, писал лабы и proof-of-concept программы (например на <a href="https://ru.wikipedia.org/wiki/Haskell">хаскеле</a>), и даже <div class="tooltip">писал образовательные <a href="#articles">статьи</a> по криптографии.<span class="tooltiptext" style="width:200px">кто бы мог подумать, что этим занимаются фрилансеры?</span>
+</div></div>
+<p>Будучи профессиональным математиком со знанием всех внутренних недостатков и преимуществ современной криптографии, оказалось довольно очевидно провести пару лет в сфере блокчейна.</p>
+
+<div>Из самого недавнего, я был CEO одного <a href="https://jury.online">ICO-стартапа</a> (по мне, он кончил неудачно), там я занимался буквально всем:
+писал <a href="/materials/WP.pdf">whitepaper</a>, создавал смарт-контракты, питчил проект на конференциях
+(<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">конференция d10e в Сеуле</a>), организовывал рабочий процесс, нанимал и увольнял сотрудников, общался с клиентами, продумывал архитектуру сайта, и даже занимался поддержкой нод и серверов. 
+Тем не менее, я ушел оттуда в середине 2018 года.
 </div>
 
-<h2 id="чем-я-занимался">Чем я занимался</h2>
+<p>В это же время я был техническим конультантом/архитектором в исследовательской/рабочей группе <a href="https://array.io">другого блокчейн-проекта</a>, который занимался разработкой нового блокчейна, основанного на DPoS алгоритме консенсуса, с Тьюринг-полными смарт-контрактами обратно совместимыми с Ethereum, новыми сервисами, например встроенным name service, state machine proxy, расширенными и делегируемыми правами для различных действий, а также новаторской инвестиционной <a href="#ido">моделью</a>. Мое участие заключалось в конусультировании по вопросам криптографии, работе виртуальной машины (и обратной совместимостью с Эфиром), менеджментом ключей, безопасности и экономики. Проект поддерживался <a href="https://krypton.capital">венчурным инвестиционным фондом</a>.</p>
+
+<p>Мне понравилось писать смарт-контракты, из-за того что это небольшие программы, которые должны быть хорошо продуманы и работать очень эффективно. И никаких внешних библиотек!</p>
+
+<p>Пара примеров:</p>
 <ol>
-  <li>Несколько образовательных статей по криптографии.
-    <ul>
-      <li><a href="/materials/aes.pdf">AES</a></li>
-      <li><a href="/materials/hashing_algorithms.pdf">hashing algorithms</a></li>
-      <li><a href="/materials/diffie.pdf">Diffie-Hellman key exchange</a></li>
-      <li><a href="/materials/prng.pdf">pseudo-random number generators</a></li>
-    </ul>
-  </li>
-  <li>Presented Jury.Online project at d10e conferecne in Seoul <a href="https://www.youtube.com/watch?v=azlZ8EWyotg">https://www.youtube.com/watch?v=azlZ8EWyotg</a></li>
-  <li>Видео о математике.</li>
+  <li><a href="https://etherscan.io/address/0x03a82e40049bcab41f6207a91134f244a56b850c#code">Initial Development Offering</a> <a name="ido">описание в коде по ссылке.</a></li>
+  <li><a href="https://github.com/randomlogin/hkk-crowdsale">Типичные контракты токена и краудсейла</a> для токенов покупаемых за эфир. Цена фиксирована к доллару и обнавляется серверным скриптом, забирающим информацию с биржи bitfinex.</li>
 </ol>
 
-<h2 id="чем-я-занимаюсь">Чем я занимаюсь</h2>
-<p><a href="https://t.me/metatema">https://t.me/metatema</a></p>
+<h3 id="еще">Еще</h3>
+<ol>
+  <li><a name="articles">Образовательные статьи по криптографии.</a>
+    <ul>
+      <li><a href="/materials/aes.pdf">AES</a></li>
+      <li><a href="/materials/hashing_algorithms.pdf">hashing algorthims</a></li>
+      <li><a href="/materials/diffie.pdf">обменный протокол Диффи-Хеллмана</a></li>
+      <li><a href="/materials/prng.pdf">Псевдослучайные генераторы чисел</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q">Видосы о математике</a></li>
+</ol>
 
-<p><a href="https://vk.com/korotkayassylka">https://vk.com/korotkayassylka</a></p>
+<h2 id="ссылки-и-контакты">Ссылки и контакты</h2>
+<p>Предпочитаемый способ связи в порядке убывания слева направо.</p>
 
-<p><a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q">https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q</a></p>
-
-<h2 id="ссылки">Ссылки</h2>
-<p><a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a>
+<p><a href="mailto:randomlogin76@gmail.com"><img src="/assets/images/email.png" alt="logo" /></a>
+<a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a>
 <a href="https://vk.com/id9115173"><img src="/assets/images/vk.svg" alt="logo" /></a>
 <a href="https://instagram.com/randomlogin76/"><img src="/assets/images/inst.png" alt="logo" /></a>
 <a href="https://last.fm/user/shewtsov"><img src="/assets/images/lastfm.svg" alt="logo" /></a>
-<a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q"><img src="/assets/images/youtube.png" alt="logo" /></a></p>
+<a href="https://www.youtube.com/channel/UCnEEmO_-Mks14AVFqlmDE1Q"><img src="/assets/images/youtube.png" alt="logo" /></a>
+<a href="https://github.com/randomlogin/"><img src="/assets/images/github.svg" alt="logo" /></a></p>
 
-<p><a href="https://hh.ru/applicant/resumes/view?resume=a6daa2bcff068b92680039ed1f45695a736637">hh</a></p>
+<p>Ныне нахожусь в Москве.</p>
 
 <h2 id="ключ">Ключ</h2>
-<p>Публичный ключ. Зашифрованный текст смогу прочитать только я.</p>
+<p>Мой ключ для шифрования. Зашифрованный ключ смогу прочитать только я. На всякий случай.</p>
 <div id="pgpKey" style="display: none">
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQENBFXM5gMBCADI7hGTegsa7vVDZqJmmAFur6C2ejX8WuZd34+OaHbPot9N9GZc
@@ -101,7 +127,7 @@ ehbhm/dHgUcmzKbagIAmpH4z3Ow5C7/7DKAED0c6yjwHw9UmYl81N1upzSQeIx6j
 -----END PGP PUBLIC KEY BLOCK-----
 </pre>
 </div>
-<p><button onclick="showKey()" id="showKeyButton">Show</button></p>
+<p><button onclick="showKey()" id="showKeyButton">Показать</button></p>
 
   </body>
 </html>
