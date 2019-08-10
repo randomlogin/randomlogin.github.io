@@ -2,10 +2,12 @@
 
 #pgpKey { display: none; }
 
+body { font-family: "helvetica"; }
+
 img[alt=logo] { width: 50px; }
 
 /* Tooltip container */
-.tooltip { position: relative; display: inline-block; /* border-bottom: 1px dotted black; */ }
+.tooltip { position: relative; display: inline-block; /* border-bottom: 1px dotted black; */ border-bottom: 1px dotted black; }
 
 /* Tooltip text */
 .tooltip .tooltiptext { visibility: hidden; /* width: 120px; */ background-color: #000; color: #fff; text-align: center; padding: 5px 5px; border-radius: 6px; /* Position the tooltip text */ position: absolute; z-index: 1; bottom: 125%; left: 50%; margin-left: -60px; /* Fade in tooltip */ opacity: 0; transition: opacity 0.3s; }
