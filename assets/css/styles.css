@@ -8,7 +8,7 @@
 @font-face { font-family: "aza"; src: url("/assets/fonts/helvetica.otf"); }
 img[alt=logo] { width: 50px; }
 
-body { font-family: "aza"; }
+body { font-family: "aza"; width: 70%; margin-left: 3%; margin-right: 3%; }
 
 /* Tooltip container */
 .tooltip { /* position: relative; */ position: relative; display: inline; /* border-bottom: 1px dotted black; */ border-bottom: 1.6px dotted black; }
@@ -36,7 +36,7 @@ body { font-family: "aza"; }
 
 button[aria-label][data-balloon-pos] { overflow: visible; }
 
-[aria-label][data-balloon-pos] { position: relative; cursor: pointer; }
+[aria-label][data-balloon-pos] { position: relative; display: inline; border-bottom: 1.6px dotted black; cursor: pointer; }
 
 [aria-label][data-balloon-pos]:after { opacity: 0; pointer-events: none; transition: all .18s ease-out .18s; text-indent: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-weight: normal; font-style: normal; text-shadow: none; font-size: var(--balloon-font-size); background: var(--balloon-color); border-radius: 2px; color: #fff; content: attr(aria-label); padding: .5em 1em; position: absolute; white-space: nowrap; z-index: 10; }
 
