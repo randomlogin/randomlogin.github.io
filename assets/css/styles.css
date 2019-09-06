@@ -11,10 +11,12 @@ img[alt=logo] { width: 50px; }
 body { font-family: "aza"; }
 
 /* Tooltip container */
-.tooltip { position: relative; display: inline-block; /* border-bottom: 1px dotted black; */ border-bottom: 1.6px dotted black; }
+.tooltip { /* position: relative; */ position: relative; display: inline-block; /* border-bottom: 1px dotted black; */ border-bottom: 1.6px dotted black; }
+
+.div { margin-left: 40%; }
 
 /* Tooltip text */
-.tooltip .tooltiptext { visibility: hidden; /* width: 120px; */ background-color: #000; color: #fff; text-align: center; padding: 5px 5px; border-radius: 6px; /* Position the tooltip text */ position: absolute; z-index: 1; bottom: 125%; left: 50%; margin-left: -60px; /* Fade in tooltip */ opacity: 0; transition: opacity 0.3s; }
+.tooltip .tooltiptext { visibility: hidden; /* width: 120px; */ background-color: #000; color: #fff; text-align: center; padding: 5px 5px; border-radius: 6px; /* Position the tooltip text */ position: absolute; z-index: 1; bottom: 125%; margin-left: -9%; /* margin-left: -60px; */ /* Fade in tooltip */ opacity: 0; transition: opacity 0.3s; }
 
 /* Tooltip arrow */
 .tooltip .tooltiptext::after { content: ""; position: absolute; top: 100%; left: 50%; margin-left: -5px; border-width: 5px; border-style: solid; border-color: #555 transparent transparent transparent; }
