@@ -11,7 +11,15 @@ permalink: /mathematics-autumn-2023/
 
 
 ## Видеозаписи:
-[Ссылка на канал](https://www.youtube.com/@alexandershevtsov1329/videos)
+[Ссылка на канал](https://www.youtube.com/@alexandershevtsov1329/videos)  
+
+
+[Видео 1](https://www.youtube.com/watch?v=gNvV0n98mtU) [Видео 2](https://www.youtube.com/watch?v=mcXt-x27ePw) [Видео 3](https://www.youtube.com/watch?v=y_aZK88q-Ds)
+
+## Записки лекций
+  [Занятие 1 (10 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-01.pdf %})   
+  [Занятие 2 (19 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-02.pdf %})   
+  [Занятие 3 (24 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-03.pdf %})   
 
 ## Листки
 
