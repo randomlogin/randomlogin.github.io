@@ -1,65 +1,56 @@
-<!doctype html>
-<html>
-  <head>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157721779-2"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-157721779-2');
-    </script>
-    <meta charset="utf-8">
-    <title>Alexander Shevtsov</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <script src="/assets/js/main.js"></script>
-  </head>
-  <body>
-      <nav>
-  
-</nav>
-
- 
-
-      <!-- Хули палишь? -->
-<p><br /></p>
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: page
+title: Alexander Shevtsov
+lang: en
+permalink: /
+baseurl: /
+url: "https://yyyyy.io/"
+---
+<!-- Хули палишь? -->
+<br>
 <div class="card">
-<img src="/assets/images/bw_myself.jpg" />
-<img src="/assets/images/bw_myself2.jpg" class="img-top" />
+<img src="/assets/images/bw_myself.jpg">
+<img src="/assets/images/bw_myself2.jpg" class="img-top">
 </div>
 
-<h2 id="hej">Hej!</h2>
-<p>You are at the personal webpage of Alexander Shevtsov.</p>
+## Hej!
+You are at the personal webpage of Alexander Shevtsov.
 
-<h2 id="bio">Bio</h2>
+## Bio
 
-<h3 id="academic-and-education">Academic and education</h3>
-<p>I’m quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology. 
-Still, most of the time in academia I’ve spent with mathematics and computer science.</p>
+### Academic and education
+I'm quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology. 
+Still, most of the time in academia I've spent with mathematics and computer science.
 
-<p>Graduated from the Belarusian State University with specialist degree thesis: the density of Cartan subalgebras in the variety of abelian subalgebras of complex semisimple Lie algebras.
-Then I’ve spent a year on master’s programme in mathematics at <a href="https://math.hse.ru/en/">HSE faculty of mathematics</a> with term paper topic: structure of the automorphism group of a finite-dimensional associative algebra.</p>
+Graduated from the Belarusian State University with specialist degree thesis: the density of Cartan subalgebras in the variety of abelian subalgebras of complex semisimple Lie algebras.
+Then I've spent a year on master's programme in mathematics at [HSE faculty of mathematics](https://math.hse.ru/en/) with term paper topic: structure of the automorphism group of a finite-dimensional associative algebra.
 
-<p>In 2022 I’’ve finished <a href="http://master.math.univ-paris-diderot.fr/en/annee/m2-lmfi/">Master’s in Mathematical Logic and Foundations of Computer
-Science</a> at University of Paris.
-Master’s paper is about <a href="/materials/algorithmic-randomness.pdf">algorithmic randomness</a> (supervised by <a href="https://www.lirmm.fr/~ashen/">Alexander Shen</a>).</p>
+In 2022 I’'ve finished [Master’s in Mathematical Logic and Foundations of Computer
+Science](http://master.math.univ-paris-diderot.fr/en/annee/m2-lmfi/) at University of Paris.
+Master's paper is about [algorithmic randomness]({% link /materials/algorithmic-randomness.pdf %}) (supervised by [Alexander Shen](https://www.lirmm.fr/~ashen/)).
+
 
 <div>
 My mathematical background comes with usual fields like topology, algebra and analysis, some differential and algebraic
-topology, <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up">Lie theory</div>, category theory, theoretical computer science, logic, model theory,
+topology, <div style="display: inline" aria-label="it has nothing in common with the falsehood"
+data-balloon-pos="up">Lie theory</div>, category theory, theoretical computer science, logic, model theory,
 cryptography, Kolmogorov complexity, type theory,
-classical physics as well as a bit of <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up">relativity and quantum physics</div> and computational mathematics.</div>
+classical physics as well as a bit of <div aria-label="these fields are not less mathematics than physics"
+data-balloon-pos="up">relativity and quantum physics</div> and computational mathematics.</div>
 
-<p>I’ve also took few courses at <a href="http://ium.mccme.ru">Independent University of Moscow</a> and follow some mathematical and natural science courses from <a href="https://college-de-france.fr/">Collège de France</a>.</p>
+I've also took few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
-<p>However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields.</p>
+However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields.
 
-<h3 id="business">Business</h3>
+### Business
 
-<p>Most of the time I’ve worked as an individual, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it’s not a rule.</p>
+Most of the time I've worked as an individual, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
 
 <div>A long time ago I was a freelancer, doing some web development, maintaining cryptographic gem, creating
 proof-of-concept solutions, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
+
 
 <p>With a background in mathematics, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
 
@@ -80,7 +71,8 @@ included cryptography consulting, virtual machine workflow (backward compatibili
 management, economics and security from the game theory perspective. </p>
 
 <p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
-  smart contracts to the <a href="https://test.ton.org/">TON</a> blockchain and communicating with <a href="https://tonlabs.io/">TON labs</a> to help them test and debug the SDKs they were creating.</p>
+  smart contracts to the <a href="https://test.ton.org/">TON</a> blockchain and communicating with <a
+                            href="https://tonlabs.io/">TON labs</a> to help them test and debug the SDKs they were creating.</p>
 
 <p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
 
@@ -90,19 +82,20 @@ management, economics and security from the game theory perspective. </p>
 <p>Since 2021 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
 <a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>.</p>
 
-<p>Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
+
+Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
 (when MEV had not yet been a thing); mimicked human interaction; wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in
-hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
-  and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.</p>
+hackathons [(example)](https://devfolio.co/projects/caffeine-consensus-ee2b)
+  and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
 
 <p>I'm open to interesting proposals!</p>
 
 <h3 id="cv">Boring stuff</h3>
-<p><a href="/materials/cv.pdf">CV</a></p>
+  [CV]({% link /materials/cv.pdf %})
 
 <h3 id="also">Also</h3>
 <ol>
-  <li><a href="/materials/algorithmic-randomness.pdf">Algorithmic randomness</a></li>
+  <li><a href ="/materials/algorithmic-randomness.pdf">Algorithmic randomness</a></li>
   <li><a name="articles"> Educational cryptography articles</a>
     <ul>
       <li><a href="/materials/aes.pdf">AES</a></li>
@@ -111,7 +104,7 @@ hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(examp
       <li><a href="/materials/prng.pdf">pseudo-random number generators</a></li>
     </ul>
   </li>
-  <li><a href="/mathematics-autumn-2023/">Small mathematics course for people, who don't know anything about it (Russian).</a></li>
+  <li><a href="{% link course.md %}">Small mathematics course for people, who don't know anything about it (Russian).</a></li>
   <!-- <li><a href="https://t.me/metatema">Things I see around</a></li> -->
 </ol>
 <h2 id="contacts">Contacts</h2>
@@ -169,5 +162,3 @@ lwsdNzVwqnVT7LnoxiFVEPBPOmUdPM5NSFA6XLevANcv8lu6
 <p><button onclick="showKey()" id="showKeyButton">Show</button></p>
 
 
-  </body>
-</html>
