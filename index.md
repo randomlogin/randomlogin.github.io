@@ -85,8 +85,8 @@ management, economics and security from the game theory perspective. </p>
 
 Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
 (when MEV had not yet been a thing); mimicked human interaction; wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in
-hackathons [(example)](https://devfolio.co/projects/caffeine-consensus-ee2b)
-  and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
+hackathons [(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results;
+and optimized and maintained some (old-fashioned) trading algorithms.
 
 <p>I'm open to interesting proposals!</p>
 
