@@ -16,11 +16,13 @@ permalink: /mathematics-autumn-2023/
 
 [Видео 1](https://www.youtube.com/watch?v=gNvV0n98mtU) [Видео 2](https://www.youtube.com/watch?v=mcXt-x27ePw) [Видео 3](https://www.youtube.com/watch?v=y_aZK88q-Ds)
 [Видео 4](https://www.youtube.com/watch?v=IODVJnFgOBY&feature=youtu.be)
+[Видео 5](https://youtu.be/efuiimMF3Ec)
 ## Записки лекций
   [Занятие 1 (10 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-01.pdf %})   
   [Занятие 2 (19 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-02.pdf %})   
   [Занятие 3 (24 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-03.pdf %})   
   [Занятие 4 (02 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-04.pdf %})   
+  [Занятие 5 (09 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-05.pdf %})   
 
 ## Листки
 
@@ -33,4 +35,5 @@ permalink: /mathematics-autumn-2023/
   [Александр Гротендик. Урожаи и посевы.]({% link /materials/grothendieck.pdf %})  
   [Р. Курант, Г. Роббинс. Что такое математика?]({% link /materials/kurant.pdf %})  
   [А. Колмогоров, С. Фомин. Элементы теории функций и функционального анализа.]({% link /materials/kolmogorov.djvu %})
+  [Миша Вербицкий. Начальный курс топологии в листочках: задачи и теоремы.]({% link /materials/verbit.pdf %})
 
