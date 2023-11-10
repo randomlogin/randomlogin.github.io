@@ -34,6 +34,6 @@ permalink: /mathematics-autumn-2023/
   [Александр Шень. Начала теории множеств.]({% link /materials/shen-set-theory.pdf %})   
   [Александр Гротендик. Урожаи и посевы.]({% link /materials/grothendieck.pdf %})  
   [Р. Курант, Г. Роббинс. Что такое математика?]({% link /materials/kurant.pdf %})  
-  [А. Колмогоров, С. Фомин. Элементы теории функций и функционального анализа.]({% link /materials/kolmogorov.djvu %})
+  [А. Колмогоров, С. Фомин. Элементы теории функций и функционального анализа.]({% link /materials/kolmogorov.djvu %})  
   [Миша Вербицкий. Начальный курс топологии в листочках: задачи и теоремы.]({% link /materials/verbit.pdf %})
 
