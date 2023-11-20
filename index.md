@@ -81,14 +81,13 @@ management, economics and security from the game theory perspective. </p>
   node and the protocol. I've built a web wallet for it, and also (not solely) built a public block explorer: <a href="https://hnsnetwork.com">hnsnetwork.com</a>.</p>
 
 <p>Since 2021 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
-<a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>.</p>
-
-
+<a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>.
 Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
-(when MEV had not yet been a thing); mimicked human interaction.
+(when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
+
 In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in hackathons
 [(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results;
-developed [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake.
+and also developed [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake. 
 
 
 <p>I'm open to interesting proposals!</p>
