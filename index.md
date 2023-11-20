@@ -53,7 +53,7 @@ A long time ago I was a freelancer, doing some web development, maintaining <a h
 creating proof-of-concept solutions, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
 
 
-<p>With a background in mathematics, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
+<p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
 
 <div>In 2017 I was the <div data-balloon-pos="up" aria-label="did it for the rhyme!">CEO of an ICO</div> startup (though, I consider it a fail), 
 <div data-balloon-pos="up" aria-label="master of none">the jack of all trades: </div> writing the
