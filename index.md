@@ -48,8 +48,9 @@ However, the more I know, the more I understand how distant I am from being at t
 
 Most of the time I've worked as an individual, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
 
-<div>A long time ago I was a freelancer, doing some web development, maintaining cryptographic gem, creating
-proof-of-concept solutions, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
+<div>
+A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
+creating proof-of-concept solutions, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
 
 
 <p>With a background in mathematics, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
@@ -84,9 +85,11 @@ management, economics and security from the game theory perspective. </p>
 
 
 Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
-(when MEV had not yet been a thing); mimicked human interaction; wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in
-hackathons [(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results;
-and optimized and maintained some (old-fashioned) trading algorithms.
+(when MEV had not yet been a thing); mimicked human interaction.
+In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in hackathons
+[(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results;
+developed [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake.
+
 
 <p>I'm open to interesting proposals!</p>
 
