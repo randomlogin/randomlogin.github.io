@@ -28,7 +28,7 @@ permalink: /mathematics-autumn-2023/
   [Занятие 5 (09 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-05.pdf %})   
   [Занятие 6 (14 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-06.pdf %})   
   [Занятие 7 (22 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-07.pdf %})   
-  [Занятие 7 (30 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-08.pdf %})   
+  [Занятие 8 (30 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-08.pdf %})   
 
 ## Листки
 
