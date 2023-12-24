@@ -20,6 +20,7 @@ permalink: /mathematics-autumn-2023/
 [Видео 6](https://youtu.be/gUKr9oN1Oj0)
 [Видео 7](https://www.youtube.com/watch?v=OBwzSdh7sto)
 [Видео 8](https://youtu.be/4TNhqE8P58c)
+[Видео 9](https://youtu.be/WuqXsHw-NEo)
 ## Записки лекций
   [Занятие 1 (10 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-01.pdf %})   
   [Занятие 2 (19 октября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-02.pdf %})   
@@ -29,6 +30,7 @@ permalink: /mathematics-autumn-2023/
   [Занятие 6 (14 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-06.pdf %})   
   [Занятие 7 (22 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-07.pdf %})   
   [Занятие 8 (30 ноября).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-08.pdf %})   
+  [Занятие 9 (19 декабря).]({% link /materials/autumn-2023/lecture-notes/lecture-notes-09.pdf %})   
 
 ## Листки
 
