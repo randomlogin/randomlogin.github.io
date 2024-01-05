@@ -117,7 +117,7 @@ and also developed [stateless DANE TLS scheme](https://github.com/handshake-org/
 <p>Current location: Paris, France.</p>
 
 <h2 id="key">Key</h2>
-<p>My key for private communication. Only I can read the encrypted text. Just in case.</p>
+<p>My key for private communication.</p>
 <div id="pgpKey" style="display: none">
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBGUQx+EBDADJbKopJpbtQyBtZhRs3ZBJ2yt0VQhUotC38vPRIBlgK//21UI1
