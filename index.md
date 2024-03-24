@@ -50,30 +50,21 @@ Most of the time I've worked as an individual, because the balance of interest/c
 
 <div>
 A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
-creating proof-of-concept solutions, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
-
+doing proof-of-concept creations, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
 
 <p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
 
-<div>In 2017 I was the <div data-balloon-pos="up" aria-label="did it for the rhyme!">CEO of an ICO</div> startup (though, I consider it a fail), 
+<div>In 2017 I was the <div data-balloon-pos="up" aria-label="did it for the rhyme!">CEO of an ICO</div> startup (though, in the end it was a fail), 
 <div data-balloon-pos="up" aria-label="master of none">the jack of all trades: </div> writing the
-<a href="/materials/WP.pdf">whitepapers</a>, creating smart contracts, pitching the project at conferences 
+<a href="/materials/WP.pdf">whitepaper</a>, creating smart contracts, pitching the project at conferences 
 (<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, hiring and firing
 people, dealing with customers, developing KYC policies, even manaing nodes and servers. Nevertheless, I left in the middle of 2018.
 </div>
 
-<p>During this time, I was also a technical consultant/architect in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a> developing the ledger based on
-the <a href="https://en.bitcoinwiki.org/wiki/DPoS">DPoS</a> consensus algorithm, with Turing-complete smart contracts
-backward compatible with Ethereum contracts, sophisticated (at that moment)
-services like built-in name service, state machine proxy, broad and delegateable account rights, and innovative (at that
-time) funding
-<a href="https://etherscan.io/address/0x03a82e40049bcab41f6207a91134f244a56b850c#code">approach</a>. My participation
-included cryptography consulting, virtual machine workflow (backward compatibility with the Ethereum smart-contracts), key
-management, economics and security from the game theory perspective. </p>
+<p>During this time, I was also a technical consultant/architect in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a>.
 
 <p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
-  smart contracts to the <a href="https://test.ton.org/">TON</a> blockchain and communicating with <a
-                            href="https://tonlabs.io/">TON labs</a> to help them test and debug the SDKs they were creating.</p>
+  smart contracts to the <a href="https://test.ton.org/">TON</a> blockchain, also testing and debuging the SDKs from TONlabs.</p>
 
 <p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
 
@@ -86,9 +77,9 @@ Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU
 (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
 
 In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in hackathons
-[(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results;
-and also developed [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake. 
+[(example)](https://devfolio.co/projects/caffeine-consensus-ee2b) and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
 
+In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ). 
 
 <p>I'm open to interesting proposals!</p>
 
