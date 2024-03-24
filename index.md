@@ -58,7 +58,7 @@ doing proof-of-concept creations, tutoring general topology, and even <div aria-
 <div data-balloon-pos="up" aria-label="master of none">the jack of all trades: </div> writing the
 <a href="/materials/WP.pdf">whitepaper</a>, creating smart contracts, pitching the project at conferences 
 (<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, hiring and firing
-people, dealing with customers, even managing nodes and servers. Nevertheless, I left in the middle of 2018.
+people, dealing with customers, managing nodes and servers. Nevertheless, I left in the middle of 2018.
 </div>
 
 <p>During this time, I was also a technical consultant/architect in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a>. </p>
