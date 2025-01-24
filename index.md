@@ -73,7 +73,7 @@ people, dealing with customers, managing nodes and servers.
 <p>I’ve been involved in the <a href="https://handshake.org/">Handshake</a> project, with tiny contributions to the
   node and the protocol. I've built a web wallet for it, and also (not solely) built a public block explorer: <a href="https://hnsnetwork.com">hnsnetwork.com</a>.</p>
 
-<p>Since 2021 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
+<p>In 2021-2023 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
 <a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>.
 Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
 (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
@@ -82,7 +82,7 @@ In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took 
 and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
 
 In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
-Now (autumn 2024)  working for [Spaces protocol](https://spacesprotocol.org/).
+Made a [block explorer](https://explorer.spacesprotocol.org/) for for [Spaces protocol](https://spacesprotocol.org/).
 
 <p>I'm open to interesting proposals!</p>
 
@@ -156,5 +156,3 @@ lwsdNzVwqnVT7LnoxiFVEPBPOmUdPM5NSFA6XLevANcv8lu6
 </pre>
 </div>
 <p><button onclick="showKey()" id="showKeyButton">Show</button></p>
-
-
