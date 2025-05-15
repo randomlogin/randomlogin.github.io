@@ -82,7 +82,7 @@ In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took 
 and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
 
 In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
-Made a [block explorer](https://explorer.spacesprotocol.org/) for for [Spaces protocol](https://spacesprotocol.org/).
+In 2025 Made a [block explorer](https://explorer.spacesprotocol.org/) and [secondary market](https://spaces.market) for [Spaces protocol](https://spacesprotocol.org/).
 
 <p>I'm open to interesting proposals!</p>
 
