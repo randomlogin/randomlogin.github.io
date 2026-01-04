@@ -107,7 +107,7 @@ Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.
 </ol>
 <h2 id="contacts">Contacts</h2>
 
-<p><img src="/assets/images/email2.png" alt="mail" width="300" height="30"/>
+<p><img src="/assets/images/email2.png" alt="mail" style="height: 1.2em; width: auto;"/>
 <a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a></p>
 
 <p>Current location: Paris, France.</p>
