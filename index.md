@@ -84,6 +84,8 @@ and tried my best with some <a href="https://legendreprf.org/">open cryptography
 In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
 In 2025 Made a [block explorer](https://explorer.spacesprotocol.org/) and [secondary market](https://spaces.market) for [Spaces protocol](https://spacesprotocol.org/).
 
+Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app.
+
 <p>I'm open to interesting proposals!</p>
 
 <h3 id="cv">Boring stuff</h3>
@@ -105,7 +107,7 @@ In 2025 Made a [block explorer](https://explorer.spacesprotocol.org/) and [secon
 </ol>
 <h2 id="contacts">Contacts</h2>
 
-<p><a href="mailto:randomlogin76@gmail.com"><img src="/assets/images/email.png" alt="logo" /></a>
+<p><<img src="/assets/images/email2.png" alt="logo" />
 <a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a></p>
 
 <p>Current location: Paris, France.</p>
