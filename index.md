@@ -20,7 +20,7 @@ You are at the personal webpage of Alexander Shevtsov.
 
 ## Bio
 
-### Academic and education
+### Academic and educational
 I'm quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology. 
 Still, most of the time in academia I've spent with mathematics and computer science.
 
@@ -46,7 +46,7 @@ However, the more I know, the more I understand how distant I am from being at t
 
 ### Business
 
-Most of the time I've worked as an individual, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
+Most of the time I've worked as a contractor, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
 
 <div>
 A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
@@ -54,18 +54,17 @@ doing proof-of-concept creations, tutoring general topology, and even <div aria-
 
 <p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
 
-<div>In 2017 I was the <div data-balloon-pos="up" aria-label="did it for the rhyme!">CEO of an ICO</div> startup (though, in the end it was a fail), 
-<div data-balloon-pos="up" aria-label="master of none">the jack of all trades: </div> writing the
-<a href="/materials/WP.pdf">whitepaper</a>, creating smart contracts, pitching the project at conferences 
-(<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, hiring and firing
-people, dealing with customers, managing nodes and servers.
+<div>In 2017 I worked in an ICO startup (in the end it was a fail) 
+
+<a href="/materials/WP.pdf">whitepaper</a>, there I was creating smart contracts, pitching the project at conferences 
+(<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, dealing with customers, managing nodes and servers.
 </div>
 
 <p>During this time, I was also a technical consultant/architect in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a>. </p>
 
 
 <p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
-  smart contracts to the <a href="https://test.ton.org/">TON</a> blockchain, also testing and debuging the SDKs from TONlabs.</p>
+  smart contracts to the <a href="https://ton.org/">TON</a> blockchain, also testing and debuging the SDKs from TONlabs.</p>
 
 
 <p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
@@ -78,7 +77,7 @@ people, dealing with customers, managing nodes and servers.
 Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
 (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
 
-In 2023 wrote API for <a href="https://www.youba.io/">hardware wallet</a>; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
+In 2023 wrote API for a hardware blockchain wallet; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
 and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
 
 In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
@@ -88,8 +87,8 @@ Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.
 
 <p>I'm open to interesting proposals!</p>
 
-<h3 id="cv">Boring stuff</h3>
-  [CV]({% link /materials/cv.pdf %})
+<!-- <h3 id="cv">Boring stuff</h3> -->
+<!--   [CV]({% link /materials/cv.pdf %}) -->
 
 <h3 id="also">Also</h3>
 <ol>
