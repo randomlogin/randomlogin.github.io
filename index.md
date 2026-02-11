@@ -53,6 +53,7 @@ Most of the time I've worked as a contractor, because the balance of interest/co
 <div>
 A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
 doing proof-of-concept creations, tutoring general topology, and even writing educational articles about basic cryptography.
+</div>
 
 <!-- <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div> -->
 
@@ -110,8 +111,8 @@ Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.
 </ol>
 <h2 id="contacts">Contacts</h2>
 
-<p><img src="/assets/images/email2.png" alt="mail" />
-<a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a></p>
+<p><img src="/assets/images/email3.jpg" alt="mail" /></p>
+<a href="https://t.me/randomlogin"><img src="/assets/images/telegram.svg" alt="logo" /></a>
 
 <p>Current location: Paris, France.</p>
 
