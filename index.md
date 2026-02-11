@@ -34,15 +34,17 @@ Master's paper is about [algorithmic randomness]({% link /materials/algorithmic-
 
 <div>
 My mathematical background comes with usual fields like topology, algebra and analysis, some differential and algebraic
-topology, <div style="display: inline" aria-label="it has nothing in common with the falsehood"
-data-balloon-pos="up">Lie theory</div>, category theory, theoretical computer science, logic, model theory,
-cryptography, Kolmogorov complexity, type theory,
-classical physics as well as a bit of <div aria-label="these fields are not less mathematics than physics"
-data-balloon-pos="up">relativity and quantum physics</div> and computational mathematics.</div>
+topology,
+<!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> -->
+Lie theory, category theory, theoretical computer science, logic, model theory, cryptography, Kolmogorov complexity, type theory,
+classical physics as well as a bit of
+<!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> -->
+relativity and quantum physics
+and computational mathematics.</div>
 
 I've also took few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
-However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields.
+<!-- However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields. -->
 
 ### Business
 
@@ -50,7 +52,9 @@ Most of the time I've worked as a contractor, because the balance of interest/co
 
 <div>
 A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
-doing proof-of-concept creations, tutoring general topology, and even <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div>
+doing proof-of-concept creations, tutoring general topology, and even writing educational articles about basic cryptography.
+
+<!-- <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div> -->
 
 <p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
 
