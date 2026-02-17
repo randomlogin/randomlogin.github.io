@@ -62,13 +62,15 @@ In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org
 In 2025 I contributed to the [Spaces protocol](https://spacesprotocol.org/): public-key infrastructure and digital
 identity anchored to bitcoin. There I made a [block explorer](https://explorer.spacesprotocol.org/) and [secondary market](https://spaces.market)
 
-Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app.
+Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app. I was also responsible for DevOps part of the projects.
 
 <p>I'm open to interesting proposals!</p>
 
 ### Academic and educational
-I'm quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology. 
-Still, most of the time in academia I've spent with mathematics and computer science.
+
+I have academic bacground in mathematics and computer science (general physics as well).
+<!-- I'm quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology.  -->
+<!-- Still, most of the time in academia I've spent with mathematics and computer science. -->
 
 Graduated from the Belarusian State University with specialist degree thesis: the density of Cartan subalgebras in the variety of abelian subalgebras of complex semisimple Lie algebras.
 Then I spent a year on master's programme in mathematics at [HSE faculty of mathematics](https://math.hse.ru/en/) with term paper topic: structure of the automorphism group of a finite-dimensional associative algebra.
@@ -78,23 +80,23 @@ Science](http://master.math.univ-paris-diderot.fr/en/annee/m2-lmfi/) at Universi
 My master's paper is about [algorithmic randomness]({% link /materials/algorithmic-randomness.pdf %}) (supervised by [Alexander Shen](https://www.lirmm.fr/~ashen/)).
 
 
-<div>
-My mathematical background comes covers the usual fields like topology, algebra and analysis, some differential and algebraic
-topology,
-<!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> -->
-Lie theory, category theory, theoretical computer science, logic, model theory, cryptography, Kolmogorov complexity, type theory,
-classical physics as well as a bit of
-<!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> -->
-relativity and quantum physics
-and computational mathematics.</div>
+<!-- <div> -->
+<!-- My mathematical background covers the usual fields like topology, algebra and analysis, some differential and algebraic -->
+<!-- topology, -->
+<!-- <!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> --> -->
+<!-- Lie theory, category theory, theoretical computer science, logic, model theory, cryptography, Kolmogorov complexity, type theory, -->
+<!-- classical physics as well as a bit of -->
+<!-- <!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> --> -->
+<!-- relativity and quantum physics -->
+<!-- and computational mathematics and linguistics.</div> -->
 
 I've also taken a few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
 <!-- However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields. -->
 
 
-<!-- <h3 id="cv">Boring stuff</h3> -->
-<!--   [CV]({% link /materials/cv.pdf %}) -->
+<h3 id="cv">Boring stuff</h3>
+  [CV]({% link /materials/cv.pdf %})
 
 <h3 id="also">Also</h3>
 <ol>
