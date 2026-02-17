@@ -80,7 +80,6 @@ Science](http://master.math.univ-paris-diderot.fr/en/annee/m2-lmfi/) at Universi
 My master's paper is about [algorithmic randomness]({% link /materials/algorithmic-randomness.pdf %}) (supervised by [Alexander Shen](https://www.lirmm.fr/~ashen/)).
 
 
-<!-- <div> -->
 <!-- My mathematical background covers the usual fields like topology, algebra and analysis, some differential and algebraic -->
 <!-- topology, -->
 <!-- <!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> --> -->
@@ -88,7 +87,7 @@ My master's paper is about [algorithmic randomness]({% link /materials/algorithm
 <!-- classical physics as well as a bit of -->
 <!-- <!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> --> -->
 <!-- relativity and quantum physics -->
-<!-- and computational mathematics and linguistics.</div> -->
+<!-- and computational mathematics and linguistics.</div> 
 
 I've also taken a few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
