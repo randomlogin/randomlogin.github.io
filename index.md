@@ -50,10 +50,12 @@ doing proof-of-concept implementations, tutoring general topology, and even writ
 
 <p>In 2021-2023 I was mostly doing Ethereum-related development. For example, we launched speculative NFT projects: 
 <a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>;
-mined gems on GPU; wrote code to participate in overhyped onchain sales (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
+mined gems on GPU with CUDA; wrote code to participate in overhyped onchain sales (when MEV had not yet been a thing);
+mimicked human interaction for web platforms and tried my best with some <a href="https://legendreprf.org/">open
+cryptography problems</a>, however with no results..</p>
 
-In 2023 wrote API for a hardware blockchain wallet; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
-and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
+<!-- In 2023 wrote API for a hardware blockchain wallet; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a> -->
+
 
 In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
 
