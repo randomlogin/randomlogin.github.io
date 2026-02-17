@@ -20,6 +20,49 @@ You are at the personal webpage of Alexander Shevtsov.
 
 ## Bio
 
+### Business
+
+Most of the time I've worked as a contractor, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
+
+<div>
+A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
+doing proof-of-concept implementations, tutoring general topology, and even writing educational articles about basic cryptography.
+</div>
+
+<!-- <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div> -->
+
+<p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
+
+<div>In 2017 I worked in an ICO startup (in the end it was a fail), there I was creating smart contracts, writing the whitepaper <a href="/materials/WP.pdf">whitepaper</a>, pitching the project at conferences 
+(<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, dealing with customers.
+</div>
+
+<p>Then I participated in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a> which was built on BitShares which used then unknown DPOS consensus. </p>
+
+<p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
+  smart contracts to the <a href="https://ton.org/">TON</a> blockchain.</p>
+
+
+<p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
+
+<p>I’ve been involved in the <a href="https://handshake.org/">Handshake</a> project, with tiny contributions to the
+  node and the protocol. I've built a web wallet for it, and a <a href="https://github.com/handshake-labs">block explorer</a>.</p>
+
+<p>In 2021-2023 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
+<a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>;
+mined gems on GPU; wrote code to participate in overhyped onchain sales (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
+
+In 2023 wrote API for a hardware blockchain wallet; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
+and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
+
+In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
+
+In 2025 I contributed to the [Spaces protocol](https://spacesprotocol.org/): public-key infrastructure and digital
+identity anchored to bitcoin. There I made a [block explorer](https://explorer.spacesprotocol.org/) and [secondary market](https://spaces.market); also [atbitcoin](https://atbitcoin.com) website and
+[Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app.
+
+<p>I'm open to interesting proposals!</p>
+
 ### Academic and educational
 I'm quite curious and have interest in many things, ranging from linguistics and cryptography to quantum physics and cosmology. 
 Still, most of the time in academia I've spent with mathematics and computer science.
@@ -46,51 +89,6 @@ I've also took few courses at [Independent University of Moscow](http://ium.mccm
 
 <!-- However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields. -->
 
-### Business
-
-Most of the time I've worked as a contractor, because the balance of interest/compensation/freedom usually shifted against me, however theoretically it's not a rule.
-
-<div>
-A long time ago I was a freelancer, doing some web development, maintaining <a href="https://github.com/randomlogin/ece">cryptographic gem</a>,
-doing proof-of-concept creations, tutoring general topology, and even writing educational articles about basic cryptography.
-</div>
-
-<!-- <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div> -->
-
-<p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
-
-<div>In 2017 I worked in an ICO startup (in the end it was a fail) 
-
-<a href="/materials/WP.pdf">whitepaper</a>, there I was creating smart contracts, pitching the project at conferences 
-(<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, dealing with customers, managing nodes and servers.
-</div>
-
-<p>During this time, I was also a technical consultant/architect in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a>. </p>
-
-
-<p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
-  smart contracts to the <a href="https://ton.org/">TON</a> blockchain, also testing and debuging the SDKs from TONlabs.</p>
-
-
-<p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
-
-<p>I’ve been involved in the <a href="https://handshake.org/">Handshake</a> project, with tiny contributions to the
-  node and the protocol. I've built a web wallet for it, and also (not solely) built a public block explorer: <a href="https://hnsnetwork.com">hnsnetwork.com</a>.</p>
-
-<p>In 2021-2023 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
-<a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>.
-Besides that, I mined <a href="https://gems.alphaventuredao.io/">gems</a> on GPU; wrote code to participate in overhyped onchain sales 
-(when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
-
-In 2023 wrote API for a hardware blockchain wallet; took part in hackathons <a href="https://devfolio.co/projects/caffeine-consensus-ee2b">(example)</a>
-and tried my best with some <a href="https://legendreprf.org/">open cryptography problems</a>, however with no results.
-
-In 2024 implemented [stateless DANE TLS scheme](https://github.com/handshake-org/HIPs/blob/master/HIP-0017.md) for Handshake: [repository](https://github.com/randomlogin/sane), [its short presentation](https://www.youtube.com/watch?v=klTFwQRtemQ).
-In 2025 Made a [block explorer](https://explorer.spacesprotocol.org/) and [secondary market](https://spaces.market) for [Spaces protocol](https://spacesprotocol.org/).
-
-Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app.
-
-<p>I'm open to interesting proposals!</p>
 
 <!-- <h3 id="cv">Boring stuff</h3> -->
 <!--   [CV]({% link /materials/cv.pdf %}) -->
