@@ -31,24 +31,24 @@ doing proof-of-concept implementations, tutoring general topology, and even writ
 
 <!-- <div aria-label="could you think such a work is done by freelancers?" data-balloon-pos="up">writing educational <a href="#articles">articles</a> about cryptography.</div></div> -->
 
-<p>With some background in mathematics and cryptography, it seemed quite straightforward to try myself in the newly emerging blockchain sphere.</p>
+<p>With some background in mathematics and cryptography, it seemed quite straightforward to get into in the newly emerging blockchain sphere.</p>
 
-<div>In 2017 I worked in an ICO startup (in the end it was a fail), there I was creating smart contracts, writing the whitepaper <a href="/materials/WP.pdf">whitepaper</a>, pitching the project at conferences 
+<div>In 2017 I worked in an ICO startup (in the end it failed), there I was creating smart contracts, writing the whitepaper <a href="/materials/WP.pdf">whitepaper</a>, pitching the project at conferences 
 (<a href="https://www.youtube.com/watch?v=azlZ8EWyotg">d10e conference in Seoul</a>), organising the workflow, dealing with customers.
 </div>
 
-<p>Then I participated in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a> which was built on BitShares which used then unknown DPOS consensus. </p>
+<p>Then I participated in a research/working group for <a href="https://github.com/arrayio">another blockchain project</a> which was built on BitShares which used the then-unknown DPOS consensus. </p>
 
 <p>In 2019 I worked as a blockchain developer at <a href="https://dexpa.io/">dexpa.io</a>, porting Ethereum
   smart contracts to the <a href="https://ton.org/">TON</a> blockchain.</p>
 
 
-<p>Later, 2019-2020 security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
+<p>Later, in  2019-2020, security analyst at <a href="https://futurecomes.com/">FutureComes</a>, making security audits for web and crypto projects (wallets, exchanges and exchange services).</p>
 
-<p>I’ve been involved in the <a href="https://handshake.org/">Handshake</a> project, with tiny contributions to the
+<p>I was involved in the <a href="https://handshake.org/">Handshake</a> project, with tiny contributions to the
   node and the protocol. I've built a web wallet for it, and a <a href="https://github.com/handshake-labs">block explorer</a>.</p>
 
-<p>In 2021-2023 I was mostly doing Ethereum-related development. For example we've launched speculative NFT projects: 
+<p>In 2021-2023 I was mostly doing Ethereum-related development. For example, we launched speculative NFT projects: 
 <a href="https://opensea.io/collection/exponentials">Exponentials</a>, <a href="https://opensea.io/collection/logarithms">Logarithms</a>;
 mined gems on GPU; wrote code to participate in overhyped onchain sales (when MEV had not yet been a thing); mimicked human interaction for web platforms.</p>
 
@@ -68,15 +68,15 @@ I'm quite curious and have interest in many things, ranging from linguistics and
 Still, most of the time in academia I've spent with mathematics and computer science.
 
 Graduated from the Belarusian State University with specialist degree thesis: the density of Cartan subalgebras in the variety of abelian subalgebras of complex semisimple Lie algebras.
-Then I've spent a year on master's programme in mathematics at [HSE faculty of mathematics](https://math.hse.ru/en/) with term paper topic: structure of the automorphism group of a finite-dimensional associative algebra.
+Then I spent a year on master's programme in mathematics at [HSE faculty of mathematics](https://math.hse.ru/en/) with term paper topic: structure of the automorphism group of a finite-dimensional associative algebra.
 
-In 2022 I’'ve finished [Master’s in Mathematical Logic and Foundations of Computer
+In 2022 I finished [Master’s in Mathematical Logic and Foundations of Computer
 Science](http://master.math.univ-paris-diderot.fr/en/annee/m2-lmfi/) at University of Paris.
-Master's paper is about [algorithmic randomness]({% link /materials/algorithmic-randomness.pdf %}) (supervised by [Alexander Shen](https://www.lirmm.fr/~ashen/)).
+My master's paper is about [algorithmic randomness]({% link /materials/algorithmic-randomness.pdf %}) (supervised by [Alexander Shen](https://www.lirmm.fr/~ashen/)).
 
 
 <div>
-My mathematical background comes with usual fields like topology, algebra and analysis, some differential and algebraic
+My mathematical background comes covers the usual fields like topology, algebra and analysis, some differential and algebraic
 topology,
 <!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> -->
 Lie theory, category theory, theoretical computer science, logic, model theory, cryptography, Kolmogorov complexity, type theory,
@@ -85,7 +85,7 @@ classical physics as well as a bit of
 relativity and quantum physics
 and computational mathematics.</div>
 
-I've also took few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
+I've also taken a few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
 <!-- However, the more I know, the more I understand how distant I am from being at the cutting edge, so I would hardly call myself a professional in any of the above fields. -->
 
@@ -104,7 +104,7 @@ I've also took few courses at [Independent University of Moscow](http://ium.mccm
       <li><a href="/materials/prng.pdf">pseudo-random number generators</a></li>
     </ul>
   </li>
-  <li><a href="{% link course.md %}">Small mathematics course for people, who don't know anything about it (Russian).</a></li>
+  <li><a href="{% link course.md %}">Small mathematics course for people who don't know anything about it (Russian).</a></li>
   <!-- <li><a href="https://t.me/metatema">Things I see around</a></li> -->
 </ol>
 <h2 id="contacts">Contacts</h2>
