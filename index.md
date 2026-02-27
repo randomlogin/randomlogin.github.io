@@ -82,12 +82,12 @@ My master's paper is about [algorithmic randomness]({% link /materials/algorithm
 
 <!-- My mathematical background covers the usual fields like topology, algebra and analysis, some differential and algebraic -->
 <!-- topology, -->
-<!-- <!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> --> -->
+<!-- <!-- <div style="display: inline" aria-label="it has nothing in common with the falsehood" data-balloon-pos="up"> </div> --> 
 <!-- Lie theory, category theory, theoretical computer science, logic, model theory, cryptography, Kolmogorov complexity, type theory, -->
 <!-- classical physics as well as a bit of -->
-<!-- <!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> --> -->
+<!-- <!-- <div aria-label="these fields are not less mathematics than physics" data-balloon-pos="up"> </div> --> 
 <!-- relativity and quantum physics -->
-<!-- and computational mathematics and linguistics.</div> 
+<!-- and computational mathematics and linguistics.</div>  -->
 
 I've also taken a few courses at [Independent University of Moscow](http://ium.mccme.ru) and follow some mathematical and natural science courses from [Collège de France](https://college-de-france.fr/).
 
