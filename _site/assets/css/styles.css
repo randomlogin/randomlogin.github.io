@@ -126,3 +126,12 @@ button[aria-label][data-balloon-pos] { overflow: visible; }
 
 @media screen and (max-width: 768px) { [aria-label][data-balloon-pos][data-balloon-length="xlarge"]:after { white-space: normal; width: 90vw; } }
 [aria-label][data-balloon-pos][data-balloon-length="fit"]:after { white-space: normal; width: 100%; }
+
+img { max-width: 100%; height: auto; }
+
+@media screen and (max-width: 768px) {
+  body { width: auto; margin-left: 4%; margin-right: 4%; }
+  .center { width: auto; }
+  .div { margin-left: 0; }
+  pre, code { white-space: pre-wrap; word-break: break-word; }
+}
