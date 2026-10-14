@@ -64,6 +64,8 @@ identity anchored to bitcoin. There I made a [block explorer](https://explorer.s
 
 Also [atbitcoin](https://atbitcoin.com) website and [Nacho](https://play.google.com/store/apps/details?id=com.impervious.nacho&hl=en) mobile app. I was also responsible for DevOps part of the projects.
 
+In 2026 I became an open source developer in the Bitcoin ecosystem, mostly contributing to [ldk-node](https://github.com/lightningdevkit/ldk-node), [kyoto](https://github.com/2140-dev/kyoto).
+
 <p>I'm open to interesting proposals!</p>
 
 ### Academic and educational

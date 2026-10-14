@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>yyyyy.io</title>
+  <link href="https://yyyyy.io/feed.xml" rel="self"/>
+  <link href="https://yyyyy.io/"/>
+  <updated>2026-06-30T00:00:00+02:00</updated>
+  <id>https://yyyyy.io/</id>
+  <author>
+    <name>Alexander Shevtsov</name>
+  </author>
+  
+  <entry>
+    <title>Hello, world</title>
+    <link href="https://yyyyy.io/2026/06/30/hello-world.html"/>
+    <updated>2026-06-30T00:00:00+02:00</updated>
+    <id>https://yyyyy.io/2026/06/30/hello-world.html</id>
+    <content type="html">&lt;p&gt;This is the first post. To publish a new finding, drop a Markdown file into the
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts/&lt;/code&gt; directory named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-some-title.md&lt;/code&gt;, with this front matter at
+the top:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;layout&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;post&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Your&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;here&quot;&lt;/span&gt;
+&lt;span class=&quot;na&quot;&gt;date&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;2026-06-30&lt;/span&gt;
+&lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Everything below the front matter is the body, written in Markdown. Math, code
+blocks, links — all the usual Markdown works. The post will automatically show
+up on the &lt;a href=&quot;/blog/&quot;&gt;blog index&lt;/a&gt; and in the RSS feed, newest first.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Found a bug in X</title>
+    <link href="https://yyyyy.io/2026/02/03/retroactive.html"/>
+    <updated>2026-02-03T00:00:00+01:00</updated>
+    <id>https://yyyyy.io/2026/02/03/retroactive.html</id>
+    <content type="html">&lt;p&gt;Your writing goes here. Normal &lt;strong&gt;Markdown&lt;/strong&gt; — headings, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt;,&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;code blocks too&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;links, images, lists, etc.&lt;/p&gt;
+
+&lt;p&gt;That’s the whole workflow:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Create a file in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts/&lt;/code&gt; with the dated filename.&lt;/li&gt;
+  &lt;li&gt;Paste the front matter, set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;date&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Write below it.&lt;/li&gt;
+  &lt;li&gt;Commit &amp;amp; push — GitHub Pages rebuilds, and it auto-appears on &lt;strong&gt;&lt;a href=&quot;/blog/&quot;&gt;/blog/&lt;/a&gt;&lt;/strong&gt; (newest first) and in &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/feed.xml&lt;/code&gt;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Drafts:&lt;/strong&gt; put unfinished posts in a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_drafts/&lt;/code&gt; folder &lt;em&gt;without&lt;/em&gt; a date in the filename (e.g. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_drafts/my-idea.md&lt;/code&gt;). They won’t publish. Preview them locally with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve --drafts&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Images:&lt;/strong&gt; drop them in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/images/&lt;/code&gt; and reference &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;![alt](/assets/images/foo.png)&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The sample post&lt;/strong&gt; (&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts/2026-06-30-hello-world.md&lt;/code&gt;) is just a placeholder — delete it whenever you write your first real one.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Math:&lt;/strong&gt; if you want LaTeX rendering, say so and I’ll wire up MathJax/KaTeX in the post layout (your site doesn’t have it yet).&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  
+</feed>

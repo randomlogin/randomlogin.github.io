@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157721779-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-157721779-2');
+    </script>
+    <meta charset="utf-8">
+    <title>Found a bug in X</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <script src="/assets/js/main.js"></script>
+  </head>
+  <body>
+      <nav>
+  
+    <a href="/" >Home</a>
+  
+    <a href="/blog/" >Blog</a>
+  
+</nav>
+
+ 
+
+      <article class="post">
+  <h1>Found a bug in X</h1>
+  <p class="post-meta">
+    <time datetime="2026-02-03T00:00:00+01:00">February 3, 2026</time>
+  </p>
+  <p>Your writing goes here. Normal <strong>Markdown</strong> — headings, <code class="language-plaintext highlighter-rouge">code</code>,</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">print</span><span class="p">(</span><span class="sh">"</span><span class="s">code blocks too</span><span class="sh">"</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>links, images, lists, etc.</p>
+
+<p>That’s the whole workflow:</p>
+<ol>
+  <li>Create a file in <code class="language-plaintext highlighter-rouge">_posts/</code> with the dated filename.</li>
+  <li>Paste the front matter, set <code class="language-plaintext highlighter-rouge">title</code> and <code class="language-plaintext highlighter-rouge">date</code>.</li>
+  <li>Write below it.</li>
+  <li>Commit &amp; push — GitHub Pages rebuilds, and it auto-appears on <strong><a href="/blog/">/blog/</a></strong> (newest first) and in <strong><code class="language-plaintext highlighter-rouge">/feed.xml</code></strong>.</li>
+</ol>
+
+<h2 id="notes">Notes</h2>
+<ul>
+  <li><strong>Drafts:</strong> put unfinished posts in a <code class="language-plaintext highlighter-rouge">_drafts/</code> folder <em>without</em> a date in the filename (e.g. <code class="language-plaintext highlighter-rouge">_drafts/my-idea.md</code>). They won’t publish. Preview them locally with <code class="language-plaintext highlighter-rouge">jekyll serve --drafts</code>.</li>
+  <li><strong>Images:</strong> drop them in <code class="language-plaintext highlighter-rouge">assets/images/</code> and reference <code class="language-plaintext highlighter-rouge">![alt](/assets/images/foo.png)</code>.</li>
+  <li><strong>The sample post</strong> (<code class="language-plaintext highlighter-rouge">_posts/2026-06-30-hello-world.md</code>) is just a placeholder — delete it whenever you write your first real one.</li>
+  <li><strong>Math:</strong> if you want LaTeX rendering, say so and I’ll wire up MathJax/KaTeX in the post layout (your site doesn’t have it yet).</li>
+</ul>
+
+
+  <p><a href="/blog/">&larr; All posts</a></p>
+</article>
+
+  </body>
+</html>
