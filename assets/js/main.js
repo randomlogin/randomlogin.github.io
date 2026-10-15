@@ -9,3 +9,11 @@ function showKey() {
     button.innerHTML = "Show";
   }
 }
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".card").forEach(function (card) {
+    card.addEventListener("click", function () {
+      card.classList.toggle("active");
+    });
+  });
+});

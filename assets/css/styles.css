@@ -30,7 +30,11 @@ body { font-family: "aza"; width: 70%; margin-left: 3%; margin-right: 3%; }
 
 .card .img-top { display: none; position: absolute; top: 0; left: 0; z-index: 99; }
 
-.card:hover .img-top { display: inline; }
+@media (hover: hover) { .card:hover .img-top { display: inline; } }
+
+.card.active .img-top { display: inline; }
+
+.card { cursor: pointer; }
 
 :root { --balloon-color: rgba(16, 16, 16, 0.95); --balloon-font-size: 12px; --balloon-move: 4px; }
 
