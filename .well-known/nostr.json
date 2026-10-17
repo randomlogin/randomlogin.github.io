@@ -1,0 +1,8 @@
+{
+  "names": {
+    "notanamereally": "a25cd0d0f967757e34386daf0fcfc00410b0c8091fd64427fe07f7fd4aff3e3c"
+  },
+  "relays": {
+    "a25cd0d0f967757e34386daf0fcfc00410b0c8091fd64427fe07f7fd4aff3e3c": ["wss://relay.damus.io", "wss://nos.lol"]
+  }
+}
