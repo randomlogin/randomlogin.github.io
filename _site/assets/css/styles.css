@@ -139,3 +139,27 @@ img { max-width: 100%; height: auto; }
   .div { margin-left: 0; }
   pre, code { white-space: pre-wrap; word-break: break-word; }
 }
+
+/* Figures in posts */
+figure { margin: 1.5rem auto; }
+figcaption { font-size: 0.85em; color: #666; margin-top: 0.4rem; }
+figure a img { display: block; cursor: zoom-in; }
+
+/* Blog list: short summary under each post title */
+.post-list li { margin: 0.7rem 0; }
+.post-summary { margin-top: 0.15rem; max-width: 42rem; font-size: 0.92em; line-height: 1.4; color: #555; }
+
+/* Layout A (class="fig-float"): small figure on the right, text wraps around it */
+figure.fig-float { float: right; width: 38%; margin: 0 0 1rem 1.5rem; }
+
+/* Layout B (class="fig-side"): figure in its own right-hand column, stays in view while scrolling */
+@media (min-width: 1100px) {
+  article.post:has(figure.fig-side) { display: grid; grid-template-columns: minmax(0, 1fr) 340px; column-gap: 2.5rem; }
+  article.post:has(figure.fig-side) > * { grid-column: 1; }
+  article.post > figure.fig-side { grid-column: 2; grid-row: 1 / span 60; position: sticky; top: 1rem; align-self: start; margin: 0; }
+  figure.fig-side img { width: auto; max-height: calc(100vh - 6rem); }
+}
+
+@media (max-width: 768px) {
+  figure.fig-float { float: none; width: 100%; margin: 1rem 0; }
+}
