@@ -121,7 +121,7 @@ I've also taken a few courses at [Independent University of Moscow](http://ium.m
 <p>Current location: Paris, France.</p>
 
 <h2 id="key">Key</h2>
-<p>My key for private communication.</p>
+<p>My key for private communication and verifying signatures.</p>
 <div id="pgpKey" style="display: none">
 <pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBGUQx+EBDADJbKopJpbtQyBtZhRs3ZBJ2yt0VQhUotC38vPRIBlgK//21UI1
